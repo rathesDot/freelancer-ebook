@@ -22,3 +22,8 @@ Table of Contents
 - [Kapitel 5: Geld verdienen](content/05_Kapitel_5_-_Geld_verdienen.md)
 - [Kapitel 6: Das Privatleben](content/06_Kapitel_6_-_Das_Privatleben.md)
 - [Kapitel 7: Die Exit-Strategie](content/07_Kapitel_7_-_Die_Exit-Strategie.md)
+
+License
+---
+
+This projects aim is to reach many people and help them to get into freelancing. That's why this projects is simply under [MIT license](LICENSE)
